@@ -1,0 +1,30 @@
+{
+  "name": "backbone-model-store",
+  "version": "1.0.0",
+  "description": "backbone based model storage engine  using sqlite",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/seraj-ahmad/react-native-backbone-model-store.git"
+  },
+  "keywords": [
+    "sqlite",
+    "backbone",
+    "model",
+    "react-native"
+  ],
+  "author": "Seraj Ahmad <seraj@clozr.com> (http://liveink.me)",
+  "license": "MIT",
+  "dependencies": {
+    "@react-native-community/async-storage": "^1.9.0",
+    "events": "^3.1.0",
+    "moment": "^2.24.0",
+    "react-native-backbone-model": "^1.0.1",
+    "react-native-device-info": "^5.5.4",
+    "react-native-sqlite-storage": "^5.0.0",
+    "underscore": "^1.10.2"
+  }
+}
