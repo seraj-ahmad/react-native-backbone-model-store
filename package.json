@@ -1,5 +1,5 @@
 {
-  "name": "backbone-model-store",
+  "name": "react-native-backbone-model-store",
   "version": "1.0.0",
   "description": "backbone based model storage engine  using sqlite",
   "main": "index.js",
@@ -16,7 +16,7 @@
     "model",
     "react-native"
   ],
-  "author": "Seraj Ahmad <seraj@clozr.com> (http://liveink.me)",
+  "author": "Seraj Ahmad <seraj@clozr.com> (http://liveink.app)",
   "license": "MIT",
   "dependencies": {
     "@react-native-community/async-storage": "^1.9.0",
